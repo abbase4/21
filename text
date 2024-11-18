@@ -1,0 +1,702 @@
+<div id="shopify-section-template--23433190965587__ss_video_grid_socials_3_3tzHQf" class="shopify-section">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"><style data-shopify="">@font-face {
+  font-family: "Josefin Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//www.luxcove.co/cdn/fonts/josefin_sans/josefinsans_n4.c8300d95fd4ce72542a6efba9c682da40d144fba.woff2?h1=OWQ0MmIxLWNlLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2tydWJiaWUuY28&h3=bHV4Y292ZS5jbw&h4=bHV4Y292ZWNvLm15c2hvcGlmeS5jb20&hmac=486cb03b210e8797e902828219a94437bda8b09d634f46ebdeea8eb8e169469a") format("woff2"),
+       url("//www.luxcove.co/cdn/fonts/josefin_sans/josefinsans_n4.ed7230a86e75b34b997bd12a5e1b87fcaf7104d8.woff?h1=OWQ0MmIxLWNlLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2tydWJiaWUuY28&h3=bHV4Y292ZS5jbw&h4=bHV4Y292ZWNvLm15c2hvcGlmeS5jb20&hmac=5c4fb2068d5b5835e3ca85c4629b2ff7d8c560851503cfbda539d0842be3c19b") format("woff");
+}
+
+  @font-face {
+  font-family: "Josefin Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//www.luxcove.co/cdn/fonts/josefin_sans/josefinsans_n4.c8300d95fd4ce72542a6efba9c682da40d144fba.woff2?h1=OWQ0MmIxLWNlLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2tydWJiaWUuY28&h3=bHV4Y292ZS5jbw&h4=bHV4Y292ZWNvLm15c2hvcGlmeS5jb20&hmac=486cb03b210e8797e902828219a94437bda8b09d634f46ebdeea8eb8e169469a") format("woff2"),
+       url("//www.luxcove.co/cdn/fonts/josefin_sans/josefinsans_n4.ed7230a86e75b34b997bd12a5e1b87fcaf7104d8.woff?h1=OWQ0MmIxLWNlLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2tydWJiaWUuY28&h3=bHV4Y292ZS5jbw&h4=bHV4Y292ZWNvLm15c2hvcGlmeS5jb20&hmac=5c4fb2068d5b5835e3ca85c4629b2ff7d8c560851503cfbda539d0842be3c19b") format("woff");
+}
+
+  @font-face {
+  font-family: "Josefin Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//www.luxcove.co/cdn/fonts/josefin_sans/josefinsans_n4.c8300d95fd4ce72542a6efba9c682da40d144fba.woff2?h1=OWQ0MmIxLWNlLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2tydWJiaWUuY28&h3=bHV4Y292ZS5jbw&h4=bHV4Y292ZWNvLm15c2hvcGlmeS5jb20&hmac=486cb03b210e8797e902828219a94437bda8b09d634f46ebdeea8eb8e169469a") format("woff2"),
+       url("//www.luxcove.co/cdn/fonts/josefin_sans/josefinsans_n4.ed7230a86e75b34b997bd12a5e1b87fcaf7104d8.woff?h1=OWQ0MmIxLWNlLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2tydWJiaWUuY28&h3=bHV4Y292ZS5jbw&h4=bHV4Y292ZWNvLm15c2hvcGlmeS5jb20&hmac=5c4fb2068d5b5835e3ca85c4629b2ff7d8c560851503cfbda539d0842be3c19b") format("woff");
+}
+
+  
+  .section-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    border-top: solid #000000 0px;
+    border-bottom: solid #000000 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    border-radius: 0px;
+    overflow: hidden;
+  }
+  
+  .section-template--23433190965587__ss_video_grid_socials_3_3tzHQf-settings {
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .video-social-heading-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    text-align: center;
+  }
+
+  .video-social-heading-template--23433190965587__ss_video_grid_socials_3_3tzHQf * {
+    margin: 0;
+    font-size: 20px;
+    color: #000000;
+    line-height: 130%;
+    text-transform: unset;
+  }
+
+  .video-social-subheading-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .video-social-subheading-template--23433190965587__ss_video_grid_socials_3_3tzHQf * {
+    margin: 0;
+    font-size: 16px;
+    color: #000000;
+    line-height: 150%;
+    text-transform: unset;
+  }
+
+  .video-social-slider-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    margin-top: 36px;
+    margin-left: -1.5rem !important;
+    margin-right: -1.5rem !important;
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
+  }
+
+  .video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    border-radius: 0px;
+    border: 0px solid #000000;
+    box-sizing: border-box !important;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+  }
+
+  .video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf video,
+  .video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf iframe {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    box-shadow: none;
+    border: 0px;
+  }
+
+  .video-social-info-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    display: block;
+    width: 100%;
+    margin: 0;
+    text-align: left;
+    font-size: 18px;
+    line-height: 150%;
+    color: #ffffff;
+    text-transform: unset;
+    font-weight: 700;
+    text-decoration: none;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    padding: 10px;
+  }
+
+  .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf,
+  .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+    display: flex;
+    width: 48px;
+    height: 48px;
+    border: 0px;
+    border: 1px solid #f6f6f6;
+    border-radius: 100px;
+    background: transparent;
+    background: #ffffff;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    -webkit-appearance: none;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,.15);
+  }
+
+  .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    left: 10px;
+  }
+
+  .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    right: 10px;
+  }
+
+  .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf .animate-icon,
+  .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf .animate-icon {
+    pointer-events: none;
+    place-items: center;
+    display: grid;
+  }
+
+  .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf .animate-icon:before,
+  .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf .animate-icon:before {
+    content: "";
+    grid-area: 1 / -1;
+    transition: all .2s ease-in-out;
+    width: 8px;
+    height: 8px;
+    transform: rotate(calc(1 * 45deg));
+    box-sizing: border-box;
+    border-style: solid;
+    border: 0px;
+    border-right: 2px solid currentColor;
+    border-top: 2px solid currentColor;
+    position: relative;
+    left: -1px;
+  }
+
+  .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf .animate-icon:before {
+    left: unset;
+    right: -1px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 2px solid currentColor;
+    border-left: 2px solid currentColor;
+  }
+
+  .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf .animate-icon:after,
+  .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf .animate-icon:after {
+    content: "";
+    grid-area: 1 / -1;
+    transition: all .2s ease-in-out;
+    width: 7.7px;
+    height: 1.6px;
+    transform-origin: center;
+    opacity: 0;
+    background: currentColor;
+    transform: scaleX(.5);
+  }
+
+  .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf span,
+  .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf span {
+    color: #000000;
+  }
+
+  .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf.swiper-button-disabled,
+  .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf.swiper-button-disabled {
+    opacity: 0;
+  }
+
+  .video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    width: 48px;
+    height: 48px;
+    border: 0px solid #ffffff;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    -webkit-appearance: none;
+    z-index: 2;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,.15);
+  }
+
+  .video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf svg {
+    height: 28px;
+    width: 28px;
+  }
+
+  .video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf svg path {
+    fill: #ffffff;
+    transition: all 0.3s ease 0s;
+  }
+
+  .video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf:hover {
+    transition: all 0.3s ease 0s;
+    border: 0px solid #ffffff;
+    background: rgba(255,255,255,0.3);
+  }
+
+  .video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf:hover svg path {
+    fill: #ffffff;
+    transition: all 0.3s ease 0s;
+  }
+
+  .video-social-unmute-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    display: none !important;
+  }
+
+  .video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf.active .video-social-unmute-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    display: block !important;
+  }
+
+  .video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf.active .video-social-mute-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    display: none !important;
+  }
+  
+  @media(min-width: 1024px) {
+
+    .section-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+      margin-top: 0px;
+      margin-bottom: 0px;
+      margin-left: 0rem;
+      margin-right: 0rem;
+      border-radius: 0px;
+    }
+    
+    .section-template--23433190965587__ss_video_grid_socials_3_3tzHQf-settings {
+      padding: 0 5rem;
+      padding-top: 36px;
+      padding-bottom: 36px;
+      padding-left: 5rem;
+      padding-right: 5rem;
+    }
+
+    .video-social-heading-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+      text-align: center;
+    }
+
+    .video-social-heading-template--23433190965587__ss_video_grid_socials_3_3tzHQf * {
+      font-size: 26px;
+    }
+
+    .video-social-subheading-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+      margin-top: 24px;
+      text-align: center;
+    }
+
+    .video-social-subheading-template--23433190965587__ss_video_grid_socials_3_3tzHQf * {
+      font-size: 18px;
+    }
+
+    .video-social-slider-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+      margin-top: 24px;
+      margin-left: 0px !important;
+      margin-right: 0px !important;
+      padding-left: 0px !important;
+      padding-right: 0px !important;
+    }
+
+    .video-social-info-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+      text-align: left;
+      font-size: 15px;
+    }
+
+    .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf,
+    .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+      width: 48px;
+      height: 48px;
+      transition: all 0.25s ease 0s;
+    }
+
+    .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf .animate-icon:before,
+    .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf .animate-icon:before {
+      width: 8px;
+      height: 8px;
+    }
+
+    .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf .animate-icon:after,
+    .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf .animate-icon:after {
+      width: 7.7px;
+    }
+
+    .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+      left: 10px !important;
+    }
+  
+    .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+      right: 10px !important;
+    }
+
+    .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf svg,
+    .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf svg {
+      height: 8px;
+      width: 8px;
+    }
+
+    .video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+      width: 48px;
+      height: 48px;
+    }
+
+    .video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf svg {
+      height: 28px;
+      width: 28px;
+    }
+  }</style>
+  <style>
+    .section-template--23433190965587__ss_video_grid_socials_3_3tzHQf-settings {
+      max-width: 120rem;
+    }
+  </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <style>
+    .video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+     aspect-ratio: 9.6/14; 
+    }
+  </style>
+
+
+
+  <style>
+    @media(min-width: 1024px) {
+     .video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+       aspect-ratio: 9.6/14; 
+      } 
+    }
+  </style>
+
+
+
+  <style>
+    .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf,
+    .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+      display: flex;
+    }
+    
+    .video-social-right-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+      padding: 0px 58px;
+    }
+  </style>
+
+
+
+  <style>
+    @media(min-width: 1024px) {
+      .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf,
+      .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+        display: flex;
+      }
+    }
+  </style>
+
+
+
+  <style>
+    .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf:hover,
+    .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf:hover {
+      transition: all 0.3s ease 0s;
+      border: 1px solid #555555;
+      background: #555555;
+    }
+  
+    .video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf:hover span,
+    .video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf:hover span{
+      color: #ffffff;
+    }
+  </style>
+
+
+
+<style>
+  .video-social-slider-template--23433190965587__ss_video_grid_socials_3_3tzHQf.preview .swiper-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+  }
+
+  .video-social-slider-template--23433190965587__ss_video_grid_socials_3_3tzHQf.preview .video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+    width: 100%;
+  }
+
+  .video-social-slider-template--23433190965587__ss_video_grid_socials_3_3tzHQf.preview .video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf:not(:first-child) {
+    margin-left: 20px;
+  } 
+
+  @media(min-width: 1024px) {
+    .video-social-slider-template--23433190965587__ss_video_grid_socials_3_3tzHQf.preview .video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf:not(:first-child) {
+      margin-left: 20px;
+    } 
+
+    .video-social-slider-template--23433190965587__ss_video_grid_socials_3_3tzHQf.preview .video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf {
+      width: calc(100% / 4 - (20px * 3));
+    }
+  }
+</style>
+
+
+<div class="section-template--23433190965587__ss_video_grid_socials_3_3tzHQf products-template--23433190965587__ss_video_grid_socials_3_3tzHQf" style="background-color:#ffc6c6; background-image: ;">
+    <div class="section-template--23433190965587__ss_video_grid_socials_3_3tzHQf-settings">
+
+      
+        <div class="video-social-heading-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><h2><strong>BLI INSPIRERAD </strong>✨</h2></div>
+      
+
+      
+        <div class="video-social-subheading-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><p>Se hur våra nöjda kunder transformerar sitt ansikte med Revita Derma LED Face Sculptor!</p></div>
+      
+
+      <div class="video-social-slider-template--23433190965587__ss_video_grid_socials_3_3tzHQf swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+        <div class="swiper-wrapper" id="swiper-wrapper-6cf63911c615d510f" aria-live="polite">
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        <div class="video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf swiper-slide swiper-slide-active" style="width: 260px; margin-right: 20px;" role="group" aria-label="1 / 8" data-swiper-slide-index="0">
+              <div class="video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" role="presentation" class="video-social-mute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"></path></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" fill="currentColor" role="presentation" class="video-social-unmute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"></path></svg>
+              </div>
+              <div class="video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                
+
+                  
+                  
+                    <video playsinline="playsinline" loop="loop" id="vid" preload="metadata" poster="//www.luxcove.co/cdn/shop/files/preview_images/a4204c7a612747989f855bd1662c3b33.thumbnail.0000000000_400x.jpg?v=1730058283"><source src="//www.luxcove.co/cdn/shop/videos/c/vp/a4204c7a612747989f855bd1662c3b33/a4204c7a612747989f855bd1662c3b33.HD-1080p-4.8Mbps-37186891.mp4?v=0" type="video/mp4"><img src="//www.luxcove.co/cdn/shop/files/preview_images/a4204c7a612747989f855bd1662c3b33.thumbnail.0000000000_400x.jpg?v=1730058283"></video>
+                  
+                
+          
+              </div>
+              
+            </div><div class="video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf swiper-slide swiper-slide-next" style="width: 260px; margin-right: 20px;" role="group" aria-label="2 / 8" data-swiper-slide-index="1">
+              <div class="video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" role="presentation" class="video-social-mute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"></path></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" fill="currentColor" role="presentation" class="video-social-unmute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"></path></svg>
+              </div>
+              <div class="video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                
+
+                  
+                  
+                    <video playsinline="playsinline" loop="loop" id="vid" preload="metadata" poster="//www.luxcove.co/cdn/shop/files/preview_images/a73b87bad0b8470f8327cf9cf44af5ce.thumbnail.0000000000_400x.jpg?v=1730295671"><source src="//www.luxcove.co/cdn/shop/videos/c/vp/a73b87bad0b8470f8327cf9cf44af5ce/a73b87bad0b8470f8327cf9cf44af5ce.HD-1080p-4.8Mbps-37344371.mp4?v=0" type="video/mp4"><img src="//www.luxcove.co/cdn/shop/files/preview_images/a73b87bad0b8470f8327cf9cf44af5ce.thumbnail.0000000000_400x.jpg?v=1730295671"></video>
+                  
+                
+          
+              </div>
+              
+            </div><div class="video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf swiper-slide" style="width: 260px; margin-right: 20px;" role="group" aria-label="3 / 8" data-swiper-slide-index="2">
+              <div class="video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" role="presentation" class="video-social-mute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"></path></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" fill="currentColor" role="presentation" class="video-social-unmute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"></path></svg>
+              </div>
+              <div class="video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                
+
+                  
+                  
+                    <video playsinline="playsinline" loop="loop" id="vid" preload="metadata" poster="//www.luxcove.co/cdn/shop/files/preview_images/d4dc08c0695e4077bdd1805e3c177135.thumbnail.0000000000_400x.jpg?v=1724001869"><source src="//www.luxcove.co/cdn/shop/videos/c/vp/d4dc08c0695e4077bdd1805e3c177135/d4dc08c0695e4077bdd1805e3c177135.HD-1080p-7.2Mbps-33381497.mp4?v=0" type="video/mp4"><img src="//www.luxcove.co/cdn/shop/files/preview_images/d4dc08c0695e4077bdd1805e3c177135.thumbnail.0000000000_400x.jpg?v=1724001869"></video>
+                  
+                
+          
+              </div>
+              
+            </div><div class="video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf swiper-slide" style="width: 260px; margin-right: 20px;" role="group" aria-label="4 / 8" data-swiper-slide-index="3">
+              <div class="video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" role="presentation" class="video-social-mute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"></path></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" fill="currentColor" role="presentation" class="video-social-unmute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"></path></svg>
+              </div>
+              <div class="video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                
+
+                  
+                  
+                    <video playsinline="playsinline" loop="loop" id="vid" preload="metadata" poster="//www.luxcove.co/cdn/shop/files/preview_images/9fc3b1c1ba0c470aa29688d3c9ae15b6.thumbnail.0000000000_400x.jpg?v=1723368156"><source src="//www.luxcove.co/cdn/shop/videos/c/vp/9fc3b1c1ba0c470aa29688d3c9ae15b6/9fc3b1c1ba0c470aa29688d3c9ae15b6.HD-1080p-7.2Mbps-33061588.mp4?v=0" type="video/mp4"><img src="//www.luxcove.co/cdn/shop/files/preview_images/9fc3b1c1ba0c470aa29688d3c9ae15b6.thumbnail.0000000000_400x.jpg?v=1723368156"></video>
+                  
+                
+          
+              </div>
+              
+            </div><div class="video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf swiper-slide" style="width: 260px; margin-right: 20px;" role="group" aria-label="5 / 8" data-swiper-slide-index="4">
+              <div class="video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" role="presentation" class="video-social-mute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"></path></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" fill="currentColor" role="presentation" class="video-social-unmute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"></path></svg>
+              </div>
+              <div class="video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                
+
+                  
+                  
+                    <video playsinline="playsinline" loop="loop" id="vid" preload="metadata" poster="//www.luxcove.co/cdn/shop/files/preview_images/8e41356d650b42c8920d6247c1ec09e9.thumbnail.0000000000_400x.jpg?v=1723297575"><source src="//www.luxcove.co/cdn/shop/videos/c/vp/8e41356d650b42c8920d6247c1ec09e9/8e41356d650b42c8920d6247c1ec09e9.HD-1080p-7.2Mbps-33038711.mp4?v=0" type="video/mp4"><img src="//www.luxcove.co/cdn/shop/files/preview_images/8e41356d650b42c8920d6247c1ec09e9.thumbnail.0000000000_400x.jpg?v=1723297575"></video>
+                  
+                
+          
+              </div>
+              
+            </div><div class="video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf swiper-slide" style="width: 260px; margin-right: 20px;" role="group" aria-label="6 / 8" data-swiper-slide-index="5">
+              <div class="video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" role="presentation" class="video-social-mute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"></path></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" fill="currentColor" role="presentation" class="video-social-unmute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"></path></svg>
+              </div>
+              <div class="video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                
+
+                  
+                  
+                    <video playsinline="playsinline" loop="loop" id="vid" preload="metadata" poster="//www.luxcove.co/cdn/shop/files/preview_images/3d7fd6a7e69a460f9c741f6747fde920.thumbnail.0000000000_400x.jpg?v=1724002725"><source src="//www.luxcove.co/cdn/shop/videos/c/vp/3d7fd6a7e69a460f9c741f6747fde920/3d7fd6a7e69a460f9c741f6747fde920.HD-1080p-7.2Mbps-33381835.mp4?v=0" type="video/mp4"><img src="//www.luxcove.co/cdn/shop/files/preview_images/3d7fd6a7e69a460f9c741f6747fde920.thumbnail.0000000000_400x.jpg?v=1724002725"></video>
+                  
+                
+          
+              </div>
+              
+            </div><div class="video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf swiper-slide" style="width: 260px; margin-right: 20px;" role="group" aria-label="7 / 8" data-swiper-slide-index="6">
+              <div class="video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" role="presentation" class="video-social-mute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"></path></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" fill="currentColor" role="presentation" class="video-social-unmute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"></path></svg>
+              </div>
+              <div class="video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                
+
+                  
+                  
+                    <video playsinline="playsinline" loop="loop" id="vid" preload="metadata" poster="//www.luxcove.co/cdn/shop/files/preview_images/d6803857d84d4aa0a5486251bfada228.thumbnail.0000000000_400x.jpg?v=1724002784"><source src="//www.luxcove.co/cdn/shop/videos/c/vp/d6803857d84d4aa0a5486251bfada228/d6803857d84d4aa0a5486251bfada228.HD-1080p-7.2Mbps-33381855.mp4?v=0" type="video/mp4"><img src="//www.luxcove.co/cdn/shop/files/preview_images/d6803857d84d4aa0a5486251bfada228.thumbnail.0000000000_400x.jpg?v=1724002784"></video>
+                  
+                
+          
+              </div>
+              
+            </div><div class="video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf swiper-slide" role="group" aria-label="8 / 8" style="width: 260px; margin-right: 20px;" data-swiper-slide-index="7">
+              <div class="video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" role="presentation" class="video-social-mute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"></path></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em" fill="currentColor" role="presentation" class="video-social-unmute-template--23433190965587__ss_video_grid_socials_3_3tzHQf"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"></path></svg>
+              </div>
+              <div class="video-social-video-template--23433190965587__ss_video_grid_socials_3_3tzHQf">
+                
+
+                  
+                  
+                    <video playsinline="playsinline" loop="loop" id="vid" preload="metadata" poster="//www.luxcove.co/cdn/shop/files/preview_images/3fe17412d6b64b58a0e9b5ec60f5bd3b.thumbnail.0000000000_400x.jpg?v=1723297693"><source src="//www.luxcove.co/cdn/shop/videos/c/vp/3fe17412d6b64b58a0e9b5ec60f5bd3b/3fe17412d6b64b58a0e9b5ec60f5bd3b.HD-1080p-7.2Mbps-33038747.mp4?v=0" type="video/mp4"><img src="//www.luxcove.co/cdn/shop/files/preview_images/3fe17412d6b64b58a0e9b5ec60f5bd3b.thumbnail.0000000000_400x.jpg?v=1723297693"></video>
+                  
+                
+          
+              </div>
+              
+            </div></div>
+        <button class="video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf" tabindex="0" aria-label="Previous slide" aria-controls="swiper-wrapper-6cf63911c615d510f">
+          <span class="animate-icon"></span>
+        </button>
+        <button class="video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf" tabindex="0" aria-label="Next slide" aria-controls="swiper-wrapper-6cf63911c615d510f">
+          <span class="animate-icon"></span>
+        </button>
+      <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>      
+      
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<script>
+  function initScrollingProducts() {
+
+    document.querySelector('.video-social-slider-template--23433190965587__ss_video_grid_socials_3_3tzHQf').classList.remove('preview');
+    const slider = new Swiper(".video-social-slider-template--23433190965587__ss_video_grid_socials_3_3tzHQf", {
+      speed: 300,
+      spaceBetween: 20,
+      loop: true,
+      navigation: {
+        nextEl: '.video-social-btn-next-template--23433190965587__ss_video_grid_socials_3_3tzHQf',
+        prevEl: '.video-social-btn-prev-template--23433190965587__ss_video_grid_socials_3_3tzHQf',
+      },
+      breakpoints: {
+        320: {
+          spaceBetween: 20,
+          slidesPerView: 1.5
+        },
+        768: {
+          spaceBetween: 20,
+          slidesPerView: 2
+        },
+        1024: {
+          spaceBetween: 20,
+          slidesPerView: 4
+        }
+      }
+    });
+
+    document.querySelectorAll('.video-social-card-template--23433190965587__ss_video_grid_socials_3_3tzHQf').forEach(el => {
+      let btn = el.querySelector('.video-social-action-template--23433190965587__ss_video_grid_socials_3_3tzHQf');
+      let frame = el.querySelector('iframe');
+      let src;
+      let src2;
+      if(frame) {
+        src = frame.getAttribute("data-src");
+        src2 = frame.getAttribute("data-src2");
+      }
+      let video = el.querySelector('video');
+      if(btn) {
+         btn.addEventListener('click', () => {
+          btn.classList.toggle('active');
+          if(btn.classList.contains('active')) {
+            if(frame) {
+              frame.src = src;
+            }
+            if(video) {
+              video.play();
+              video.muted = false;
+              video.setAttribute("mute", "false"); 
+            }
+          } else {
+            if(frame) {
+              frame.src = src2;
+            }
+            if(video) {
+              video.pause();
+            }
+          }
+        }) 
+      }
+    })
+  }
+
+  document.addEventListener('DOMContentLoaded', initScrollingProducts);
+  
+  if (Shopify.designMode) {
+     document.addEventListener('shopify:section:unload', initScrollingProducts);
+     document.addEventListener('shopify:section:load', initScrollingProducts);
+  }
+</script>
+
+</div>
